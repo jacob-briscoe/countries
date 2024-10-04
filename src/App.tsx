@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <GlobalStyle></GlobalStyle>
-      <h1>TODO</h1>
+      <h1>TODOJ</h1>
     </>
   );
 }
